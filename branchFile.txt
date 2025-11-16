@@ -1,1 +1,2 @@
 wersja lokalna 
+zmiana z poziomu edytora w przeglądarce
